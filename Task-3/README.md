@@ -54,6 +54,10 @@ Install the required package:
 ```bash
 pip install -r requirements.txt
 
+
+
+
+
 ##DEMO VIDEO
 
 https://drive.google.com/file/d/1lfqGTbP9kS3AiE7k1W7MYdaSwtoNZIF2/view?usp=drivesdk
